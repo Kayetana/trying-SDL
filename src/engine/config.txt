@@ -1,0 +1,4 @@
+/home/user/TP/SDL2Test/assets/player.png 60 70 30 10
+/home/user/TP/SDL2Test/assets/enemy.png 40 40 20 0
+/home/user/TP/SDL2Test/assets/bullet.png 20 20 10 30
+TheFloors 640 480
